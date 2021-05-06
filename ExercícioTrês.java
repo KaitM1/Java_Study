@@ -1,7 +1,7 @@
 package br.com.generation.Lista.seis.cinco;
 import java.util.Scanner;
 
-public class ExercícioTrês {
+public class Exerc�cioTr�s {
 
     public static void main(String[] args) {
 
@@ -26,9 +26,4 @@ public class ExercícioTrês {
         ler.close();
     }
     
-}
-
-
-	}
-
 }
